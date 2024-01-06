@@ -1,62 +1,62 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 👂 heard
-  - identifier 👂 heard
+  - value 🖐️ used
+  - identifier 🖐️ used
   - variable 🖐️ used
   - constant 🖐️ used
-  - scalar
+  - scalar 🖐️ used
   - literal
   - expression 🖐️ used
   - heap 🖐️ used
   - function 🖐️ used
-  - procedure 👂 heard
+  - procedure 🖐️ used
   - method 🖐️ used
   - class 🖐️ used
   - prototype 🖐️ used
-  - event 👂 heard
+  - event 🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
-  - reference types
-  - flag
-  - lexical scope
+  - reference types 🖐️ used
+  - flag 🖐️ used
+  - lexical scope 🖐️ used
   - code block 🖐️ used
   - conditions 🖐️ used
   - loops 🖐️ used
   - assignment 🖐️ used
   - regular expression 🖐️ used
-  - interface 👂 heard
-  - contract
-  - module 👂 heard
-  - call stack 👂 heard
+  - interface 🖐️ used
+  - contract 🖐️ used
+  - module 🖐️ used
+  - call stack 🖐️ used
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 🖐️ used
   - lambda expression 🖐️ used
-  - side effects 👂 heard
+  - side effects 🖐️ used
   - closure 🎓 known
   - partial application
   - curry 🎓 known
-  - higher order 👂 heard
+  - higher order 🖐️ used
   - recursion 🖐️ used
   - callback 🖐️ used
   - listener 🖐️ used
-  - compose
+  - compose 🖐️ used
   - pipe 🖐️ used
   - memoize
   - wrapper 👂 heard
   - functor 👂 heard
   - monad 👂 heard
   - monoid 👂 heard
-  - generator
+  - generator 👂 heard
   - coroutine
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
-  - record
-  - enum 👂 heard
+  - record 🖐️ used
+  - enum 🖐️ used
   - instance 🖐️ used
   - object 🖐️ used
   - class 🖐️ used
@@ -75,12 +75,12 @@
   - iterator 🖐️ used
   - mutable state 👂 heard
   - immutable state 👂 heard
-  - serialization
+  - serialization 👂 heard
   - string parsing 🖐️ used
 - Process & style
   - compiler 🖐️ used
   - transpiler
-  - linter 👂 heard
+  - linter 🖐️ used
   - polyfill
   - debugger 🖐️ used
   - garbage collection 🖐️ used
@@ -100,7 +100,7 @@
   - unreachable code 🖐️ used
   - duplicate code 🖐️ used
   - exception 🖐️ used
-  - return early
-  - unittest
+  - return early 🖐️ used
+  - unittest 🎓 known
   - git 🖐️ used
   - github 🖐️ used

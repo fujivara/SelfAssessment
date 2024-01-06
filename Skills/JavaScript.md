@@ -5,18 +5,18 @@
   - this 🙋 explained
   - arrow function 🙋 explained
   - async function 🙋 explained
-  - call 👂 heard
-  - bind 👂 heard
+  - call 🖐️ used
+  - bind 🖐️ used
   - apply 🖐️ used
   - instanceof 🖐️ used
   - ...spread 🖐️ used
-  - ...rest 👂 heard
+  - ...rest 🖐️ used
   - typeof 🖐️ used
   - destructuring 🖐️ used
-  - generator 👂 heard
+  - generator 🎓 known
   - iterator 🖐️ used
-  - async generator
-  - async iterator
+  - async generator 👂 heard
+  - async iterator 👂 heard
   - chaining 🖐️ used
   - optional chaining 🖐️ used
   - IIFE
@@ -31,7 +31,7 @@
   - bitwise operators 🖐️ used
   - ternary operator 🖐️ used
   - void 🖐️ used
-  - yield
+  - yield 👂 heard
   - await 🖐️ used
   - template literal
   - strict mode 🖐️ used
@@ -47,7 +47,7 @@
   - for 🙋 explained
   - for..in 🖐️ used
   - for..of 🖐️ used
-  - for await
+  - for await 🖐️ used
   - throw 🙋 explained
   - break 🙋 explained
   - continue 🙋 explained
@@ -58,7 +58,7 @@
   - switch 🙋 explained
   - class 🙋 explained
   - new Error 🙋 explained
-  - with
+  - with 👂 heard
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
@@ -76,14 +76,14 @@
   - null 🙋 explained
   - Proxy 🖐️ used
   - weak collections
-  - timers
+  - timers 🖐️ used
   - EventEmitter 👂 heard
   - RegExp
   - Date 🖐️ used
-  - BigInt
+  - BigInt 🖐️ used
 - Infrastructure
   - V8 👂 heard
-  - Node.js 👂 heard
-  - npm 👂 heard
+  - Node.js 🖐️ used
+  - npm 🖐️ used
   - prettier 🖐️ used
   - MDN 🖐️ used

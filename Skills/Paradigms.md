@@ -2,18 +2,18 @@
 
 - Theory
   - Procedural programming 🖐️ used
-  - Imperative programming 👂 heard
-  - Structured programming 👂 heard
-  - Non-structured programming 👂 heard
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming 🖐️ used
   - Functional programming 🖐️ used
-  - Prototype-based programming
+  - Prototype-based programming 🖐️ used
   - Object-oriented programming 🖐️ used
-  - Object-based programming 👂 heard
-  - Generic programming
+  - Object-based programming 🖐️ used
+  - Generic programming 🖐️ used
   - Concurrent computing
-  - Asyncronous programming 👂 heard
-  - Parallel programming 👂 heard
-  - Reactive programming
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🖐️ used
+  - Reactive programming 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
@@ -42,22 +42,22 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method
-  - Abstract Factory
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🖐️ used
   - Adapter
   - Observer
-  - Strategy
+  - Strategy 🖐️ used
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility 👂 heard
   - Command
   - Iterator 👂 heard
-  - State
+  - State 🖐️ used
   - Bridge
-  - Builder
+  - Builder 👂 heard
   - Prototype 👂 heard
-  - Composite
+  - Composite 🖐️ used
   - Decorator 👂 heard
   - Flyweight
   - Mediator
