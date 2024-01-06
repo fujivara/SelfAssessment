@@ -4,16 +4,16 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases 👂 heard
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments  🖐️ used
+  - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici 👂 heard
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -54,11 +54,11 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID 👂 heard
   - node:url vs new URL
-  - node:assert
+  - node:assert 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -90,22 +90,22 @@
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -118,36 +118,36 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 👂 heard
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
   - Availability
-  - Flexibility
+  - Flexibility 👂 heard
 - Data access
   - Data access layer
   - Repository
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder 👂 heard
+  - Object-Relational Mapping 👂 heard
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 🖐️ used
+  - error.stack 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🖐️ used
   - Flame graph
-  - Memory leaks
+  - Memory leaks 🙋 explained
   - Resource leaks
   - Data race
 - Integrations and bindings
